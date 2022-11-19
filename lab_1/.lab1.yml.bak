@@ -29,12 +29,12 @@ topology:
     PC1:
       kind: linux
       mgmt_ipv4: 172.20.20.25
-      image: ubuntu:latest
+      image: travelping/nettools:latest
 
     PC2:
       kind: linux
       mgmt_ipv4: 172.20.20.26
-      image: ubuntu:latest
+      image: travelping/nettools:latest
   
   links:
     - endpoints: ["R01.TEST:eth1","SW01.L3.01.TEST:eth1"]
