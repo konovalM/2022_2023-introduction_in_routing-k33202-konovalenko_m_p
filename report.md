@@ -79,7 +79,8 @@ topology:
     - endpoints: ["R01.LND:eth2", "R01.NY:eth2"]
     - endpoints: ["R01.LBN:eth1", "R01.NY:eth1"]
     - endpoints: ["R01.SPB:eth3", "PC1:eth3"]
-    - endpoints: ["R01.NY:eth3", "SGI_Prism:eth3"]```
+    - endpoints: ["R01.NY:eth3", "SGI_Prism:eth3"]
+```
 
 #### 3. Тексты конфигурация для каждого сетевого устройства
 
