@@ -343,11 +343,22 @@ add distance=1 gateway=192.168.20.1
 /system identity
 set name=SGI_Prism
 ```
+#### 4. Выкладки с маршрутами на каждом устройстве.
 
-#### 4. Результаты пингов
+![](./assets/images/routes1.jpg)
+![](./assets/images/routes2.jpg)
+![](./assets/images/routes3.jpg)
+![](./assets/images/routes4.jpg)
+![](./assets/images/routes5.jpg)
+![](./assets/images/routes6.jpg)
+
+#### 5. Результаты пингов
 
 ![](./assets/images/ping1.jpg)
 ![](./assets/images/ping2.jpg)
+![](./assets/images/ping3.jpg)
+![](./assets/images/ping4.jpg)
 
 ### Вывод
 
+В ходе лабораторной работы №3 были изучены протоколы OSPF и MPLS, а также механизмы организации EoMPLS.
