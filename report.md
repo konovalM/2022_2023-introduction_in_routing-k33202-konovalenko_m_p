@@ -26,7 +26,7 @@
 
 #### 1. Схема настраеваемой сети
 
-<!-- ![schema](./assets/images/schema.jpg) -->
+![schema](./assets/images/schema.jpg)
 
 #### 2. Файл для развертывания тестовой сети yaml
 
